@@ -1,8 +1,8 @@
 module.exports = {
   HOST: "db4free.net",
-  USER: "fiftycentsjj",
-  PASSWORD: "Holtumrs@66",
-  DB: "login_fiftycents",
+  USER: "your_username",
+  PASSWORD: "your_password",
+  DB: "name of your database",
   dialect: "mysql", // database type, can be mysql, postgres, sqlite, etc.
   pool: {
     max: 5, // maximum number of connection in pool

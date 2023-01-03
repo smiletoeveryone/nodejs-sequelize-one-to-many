@@ -1,7 +1,7 @@
 # nodejs-sequelize-one-to-many
 
-## you can run the project by running "npm install" after downloading this repository. 
-## do not forget to modify "db.config.js" for connecting to your mysql database.
+## ** you can run the project by running "npm install" after downloading this repository. 
+## ** do not forget to modify "db.config.js" for connecting to your mysql database.
 
 ### 1. Express - routes
 ### 2. HTTP request  - post, get, put, delete
